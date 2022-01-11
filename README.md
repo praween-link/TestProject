@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-<img src="screenshots/1641916830922.jpg" width="300" height="650" /> <img src="screenshots/1641916830907.jpg" width="300" height="650" /> <img src="screenshots/1641916830892.jpg" width="300" height="650" /> <img src="screenshots/1641916830854.jpg" width="300" height="650" /> <img src="screenshots/1641916830874.jpg" width="300" height="650" />
+<img src="screenshots/1641916830922.jpg" width="270" height="600" /> <img src="screenshots/1641916830907.jpg" width="270" height="600" /> <img src="screenshots/1641916830892.jpg" width="270" height="600" /> <img src="screenshots/1641916830854.jpg" width="270" height="600" /> <img src="screenshots/1641916830874.jpg" width="270" height="600" />
 
 This project is a starting point for a Flutter application that follows the
 [simple app state management
